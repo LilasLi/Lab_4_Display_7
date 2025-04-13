@@ -4,3 +4,5 @@ Mapa de saídas:
 
 ![Segmentos](https://github.com/user-attachments/assets/564ad07a-4687-44b1-9884-a0d199163f1e)
 
+![Display7seg](https://github.com/user-attachments/assets/911f2b21-db7e-486e-9f74-542aa3fdb915)
+
